@@ -1,0 +1,35 @@
+######################## Customized property values #########################
+persist.vendor.radio.facnotsup_as_nonw=1
+ro.com.google.clientidbase.ms=android-sonymobile-nrev
+ro.vendor.semc.ecclist.num=7
+ro.vendor.semc.ecclist.type.0=police
+ro.vendor.semc.ecclist.number.0=110
+ro.vendor.semc.ecclist.plmn.0=460 FFF
+ro.vendor.semc.ecclist.non_ecc.0=true
+ro.vendor.semc.ecclist.type.1=firebrigade
+ro.vendor.semc.ecclist.number.1=119
+ro.vendor.semc.ecclist.plmn.1=460 FFF
+ro.vendor.semc.ecclist.non_ecc.1=true
+ro.vendor.semc.ecclist.type.2=ambulance
+ro.vendor.semc.ecclist.number.2=120
+ro.vendor.semc.ecclist.plmn.2=460 FFF
+ro.vendor.semc.ecclist.non_ecc.2=true
+ro.vendor.semc.ecclist.type.3=ambulance
+ro.vendor.semc.ecclist.number.3=122
+ro.vendor.semc.ecclist.plmn.3=460 FFF
+ro.vendor.semc.ecclist.non_ecc.3=true
+ro.vendor.semc.ecclist.type.4=police
+ro.vendor.semc.ecclist.number.4=112
+ro.vendor.semc.ecclist.plmn.4=460 FFF
+ro.vendor.semc.ecclist.non_ecc.4=false
+ro.vendor.semc.ecclist.type.5=police
+ro.vendor.semc.ecclist.number.5=911
+ro.vendor.semc.ecclist.plmn.5=460 FFF
+ro.vendor.semc.ecclist.non_ecc.5=false
+ro.vendor.semc.ecclist.type.6=ambulance
+ro.vendor.semc.ecclist.number.6=999
+ro.vendor.semc.ecclist.plmn.6=460 FFF
+ro.vendor.semc.ecclist.non_ecc.6=true
+ro.product.locale=zh-Hans-CN
+#############################################################################
+

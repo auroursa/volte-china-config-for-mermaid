@@ -1,0 +1,6 @@
+id=volte_cn_mermaid
+name=VoLTE Config(CN)for Mermaid
+version=1.0
+versionCode=1
+author=Frudrax Cheng
+description=Adds configuration to enable China's VoLTE for Xperia 10 Plus(Mermaid).
